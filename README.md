@@ -3,12 +3,6 @@ rna-pdb-tools
 
 This is an archive branch for rna-pdb-tools. To see rna-tools go https://github.com/mmagnus/rna-tools
 
-> Magnus, Marcin. (2016). rna-pdb-tools. Zenodo. 10.5281/zenodo.60933
-
-*If you find the tools helpful, you can cite the repo using the doi above :-), you can donate via PayPal, and if you like the project, please "Star it", so it would be easier to find it for others and to make me happy that the toolbox useful not only for me.*
-
-![](docs/pngs/starit.png)
-
 A core library and a set of programs to run various Python functions related to work with PDB files of RNA structures.
 
 The software is used by me in my servers **NPDock** (RNA/DNA-protein docking method, http://genesilico.pl/NPDock/) and **SimRNAweb** (RNA 3D structure prediction method, http://iimcb.genesilico.pl/SimRNAweb/) and **mqapRNA** (RNA 3D quality control, http://iimcb.genesilico.pl/mqapRNA/).
