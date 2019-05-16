@@ -1,7 +1,7 @@
 rna-pdb-tools
 =================
 
-<p align="center"><b>Beta: this is still under development. Contact me if you need help. We'll be adding features and possibly making breaking changes in future releases.</b></p>
+This is an archive branch for rna-pdb-tools. To see rna-tools go https://github.com/mmagnus/rna-tools
 
 Look for other our projects at https://github.com/RNA-Puzzles.
 
